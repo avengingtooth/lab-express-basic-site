@@ -1,0 +1,26 @@
+nav ul{
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+    justify-content: space-between;
+    padding: 0;
+    text-align: center;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+}
+
+body{
+    padding: 5%;
+    background: radial-gradient(lightblue, rgb(29, 29, 121));
+}
+
+h1{
+    text-align: center;
+}
